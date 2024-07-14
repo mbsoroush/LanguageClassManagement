@@ -1,2 +1,2 @@
 # Language Class Management
-this project was for my "Data Bases" course in university which implements the practical concepts of this DataBase. 
+In this project we used Mysql and Python programming language for implementig a system for register informations about classes, teachers and students of an language education institute na dtheir connections and transactions. 
